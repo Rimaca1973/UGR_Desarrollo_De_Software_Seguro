@@ -72,6 +72,7 @@ Estudiantes de la **Tecnicatura Universitaria en Ciberseguridad**
 <img src="https://raw.githubusercontent.com/Rimaca1973/UGR_Desarrollo_De_Software_Seguro/main/Kytha.jpg" alt="Kytha vigilando la API" width="300"/>
 
 > Siempre atenta. Siempre alerta. Nadie entra a `/api/protegida` sin pasar por ella.  
-> *La seguridad no se negocia.*
+> *La seguridad no se negocia.*  
+> **Este código fue revisado y aprobado por Kytha. Si algo falla, ladra.** 🐶
 
 ---
