@@ -4,7 +4,7 @@
 ### Trabajo Práctico Final  
 **Diseño e Implementación de APIs Seguras con Flask, FastAPI y OpenAPI**
 
-Como parte de la materia **Desarrollo de Software Seguro** de la **Universidad del Gran Rosario**, este proyecto documenta el diseño y la implementación de una API.  
+	Como parte de la materia **Desarrollo de Software Seguro** de la **Universidad del Gran Rosario**, este proyecto documenta el diseño y la implementación de una API.  
 El trabajo se desarrolla en **tres etapas**, cada una incrementando los niveles de seguridad operativa.
 
 ---
@@ -63,11 +63,11 @@ Estudiantes de la **Tecnicatura Universitaria en Ciberseguridad**
 
 ## ⚠️ Descargo de Responsabilidad
 
-> 🐾 *Este proyecto es parte de una entrega académica. No debe ser usado en producción sin aplicar las medidas de seguridad adecuadas.*
+> *Este proyecto es parte de una entrega académica. No debe ser usado en producción sin aplicar las medidas de seguridad adecuadas.*
 
 ---
 
-## 🐶 Kytha: Supervisora de Seguridad
+## 🐶 Kytha : Supervisora de Seguridad 🐾
 
 <img src="https://raw.githubusercontent.com/Rimaca1973/UGR_Desarrollo_De_Software_Seguro/main/Kytha.jpg" alt="Kytha vigilando la API" width="300"/>
 
