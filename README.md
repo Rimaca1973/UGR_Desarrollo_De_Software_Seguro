@@ -40,13 +40,15 @@ pip install -r requirements.txt
 ## 📦 Entregas
 
 ### ✅ Primera Entrega  
-_(Descripción breve de lo trabajado en esta fase...)_
+Esta primera entrega tiene como propósito analizar los distintos enfoques de autenticación utilizados en APIs, desde los métodos clásicos como la autenticación básica, a técnicas más avanzadas como OAuth 2.0 y JWT (usadas en aplicaciones más modernas). También evaluaremos los aspectos arquitectónicos y de rendimiento de dos framworks populares de Python: Flask y FastAPI, con un enfoque especial en sus capacidades para integrar mecanismos de autenticación y documentación de APIs mediante OpenAPI.
+En el componente practico complementaremos esta teoría mediante proyectos "funcionales", implementando rutas protegidas y generando documentación interactiva con Swagger UI. Entonces, el objetivo de la teoría y práctica de este trabajo es permitir establecer un enfoque integral en el diseño de APIs seguras y documentadas, para lograr una buena base en los siguientes trabajos.
+
 
 ### 🔐 Segunda Entrega  
-_(Aquí podés detallar los avances en seguridad, autenticación, documentación, etc.)_
+Esta seccion sera ampliada al momento de la entrega.
 
 ### 🧱 Tercera Entrega  
-_(La etapa final con todas las medidas implementadas y evaluadas)_
+Esta seccion sera ampliada al momento de la entrega.
 
 ---
 
@@ -64,9 +66,5 @@ Estudiantes de la **Tecnicatura Universitaria en Ciberseguridad**
 ## ⚠️ Descargo de Responsabilidad
 
 > *Este proyecto es parte de una entrega académica. No debe ser usado en producción sin aplicar las medidas de seguridad adecuadas.*
-
----
-
-
 
 ---
