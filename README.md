@@ -68,3 +68,17 @@ Estudiantes de la **Tecnicatura Universitaria en Ciberseguridad**
 > *Este proyecto es parte de una entrega académica. No debe ser usado en producción sin aplicar las medidas de seguridad adecuadas.*
 
 ---
+## Licencia
+
+![Licencia Creative Commons](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)
+
+Este proyecto está licenciado bajo la licencia [Creative Commons Atribución-NoComercial-SinDerivadas 4.0 Internacional (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es).
+
+Se puede compartir el contenido original del proyecto **siempre y cuando**:
+- Se de crédito apropiado a los autores.
+- No se utilice con fines comerciales.
+- No se modifique el contenido ni se genere obras derivadas.
+
+Para más detalles, consultá los términos completos en el siguiente enlace:  
+🔗 https://creativecommons.org/licenses/by-nc-nd/4.0/deed.es
+---
