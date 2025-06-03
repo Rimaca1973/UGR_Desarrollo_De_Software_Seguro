@@ -48,7 +48,9 @@ En el componente práctico complementamos esta teoría mediante proyectos funcio
 
 ### 🔐 Segunda Entrega  
 
-Esta sección será ampliada al momento de la entrega.
+En esta segunda entrega, se presenta un análisis detallado de la implementación de los mecanismos avanzados de autenticación aplicables al Desarrollo De Software Seguro. Se describen los usos, riesgos y buenas prácticas de la autenticación por IP, el uso de API Keys, y de los protocolos OAuth 2.0 y JWT. A lo largo del informe se identificaron vulnerabilidades frecuentes asociadas a cada método y se propusieron medidas de mitigación concretas, destacando la importancia de aplicar controles como el uso de HTTPS, validación de tokens, y la combinación de factores de autenticación. Se concluye que una arquitectura segura
+requiere tanto el diseño cuidadoso de los mecanismos de acceso como una continua evaluación de los vectores de ataque comunes.
+Se amplian los requerimientos, las documentaciones correspondientes y se actualizan los trabajos.
 
 ### 🧱 Tercera Entrega  
 
