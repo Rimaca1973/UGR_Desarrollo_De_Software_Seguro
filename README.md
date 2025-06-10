@@ -54,7 +54,8 @@ Se amplian los requerimientos, las documentaciones correspondientes y se actuali
 
 ### 🧱 Tercera Entrega  
 
-Esta sección será ampliada al momento de la entrega.
+Esta tercer y ultima entrega integramos OAuth 2.0 utilizando GitHub como proveedor, lo que nos permitió validar usuarios mediante autenticación externa y obtener un token válido para acceder a recursos autorizados. También configuramos una lógica de bloqueo de IP ante múltiples intentos fallidos, como medida adicional de seguridad que nos ayuda a elevar los niveles de proteccion, en este caso contra ataques de fuerza bruta.
+En conjunto, el trabajo representó un recorrido completo por las distintas formas de proteger una API moderna, entendiendo tanto la lógica técnica como las ventajas de aplicar buenas prácticas desde el diseño. Esta experiencia nos dejó herramientas sólidas para el futuro y una mejor comprensión del rol que juega la seguridad en el desarrollo de software profesional.
 
 ---
 
